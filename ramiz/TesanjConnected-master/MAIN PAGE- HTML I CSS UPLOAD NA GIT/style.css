@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.log {
+  float: right;
+  display: block;
+  color:white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  margin-right:0.7%;
+  margin-top:2.1%;
+}
+
+.reg{
+  float: right;
+  display: block;
+  color:white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  margin-right:2%;
+  outline:1px solid white;
+  outline-offset:4px;
+  margin-top:2.1%;
+}
+
+.pretraga {
+  float: right;
+  margin-right:1%;
+  margin-top:0.4%;
+}
+
+.topnav input[type=text] {
+  padding:6px;
+  margin-top: 12%;
+  font-size: 17px;
+  border: none;
+}
+.logo{
+  width:6%;
+  margin-left:4%;
+}

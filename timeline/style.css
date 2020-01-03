@@ -1,0 +1,95 @@
+body{
+    background-image: url("./background/gradina.jpg");
+    background-size: cover;
+}
+.navbar{
+    background-color: #494949;
+    opacity: 0.9;
+    width: 110%;
+    height: 20%;
+    margin-left: -9.6%;
+    margin-top: -2%;
+}
+#settings{
+    width: 3%;
+    height: 29%;
+    margin-left: 95%;
+    margin-top: 4%;
+}
+.profile{
+    width: 3%;
+    height: 29%;
+    margin-left: 90%;
+    margin-top: -2.5%;
+}
+.noti{
+    width: 3%;
+    height: 29%;
+    margin-left: 85%;
+    margin-top: -2.4%;
+}
+.sbar{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: -3%;
+    font-size: 300%;
+}
+.logo{
+    width: 20%;
+    height: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: -6%;
+}
+.timeline1{
+    background-color: #494949;
+    opacity: 0.9;
+    width: 40%;
+    height: 50%;
+    margin-left: 3%;
+    margin-top: 5%;
+    border-radius: 6%;
+}
+.timeline1 h3 {
+    padding-top: 5%;
+    font-size: 300%;
+    text-align: center;
+}
+.timeline2{
+    background-color: #494949;
+    opacity: 0.9;
+    width: 40%;
+    height: 50%;
+    margin-left: 3%;
+    margin-top: 5%;
+    border-radius: 6%;
+}
+.timeline2 h3 {
+    padding-top: 5%;
+    font-size: 300%;
+    text-align: center;
+    opacity: 1;
+}
+.text{
+    text-align: center;
+    font-size: 300%;
+    opacity: 0.999;
+}
+.hotnews{
+    background-color: #494949;
+    opacity: 0.9;
+    margin-left: 55%;
+    margin-top: -55.5%;
+    width: 40%;
+    height: 111%;
+    border-radius: 6%;
+    
+}
+.hotnews h4{
+    padding-top: 5%;
+    font-size: 300%;
+    text-align: center;
+}
+#settings1{
+    display: none;
+}
