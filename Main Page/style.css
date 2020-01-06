@@ -1,0 +1,86 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url("gradina.jpg");
+    background-repeat:repeat-y;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #757575;
+}
+.reg 
+{
+    float:right;
+    display:block;
+    background:#757575;
+    color:	#FCFFFF;
+    text-align: center;
+    text-decoration: none;
+    font-size:17px;
+    padding:15px;
+    padding-right:15px;
+    padding-left:5px;
+    padding-top:25px;
+    padding-bottom:20px;
+   
+    
+}
+.log{
+    float:right;
+    display:block;
+    background:#757575;
+    color:	#FCFFFF;
+    text-align: center;
+    text-decoration: none;
+    font-size:17px;
+    padding:15px;
+    padding-right:15px;
+    padding-left:5px;
+    padding-top:25px;
+    padding-bottom:20px;
+
+    
+}
+.search{
+    float:right;
+    padding:25px;
+    padding-right:10px;
+    padding-top: 23px;
+    padding-bottom:20px;
+    background-color:#757575;
+    width:13%;
+    
+}
+.search input,button{
+    width:80%;
+    border:2px solid white;
+    border-right:0px;
+    font-size:17px;
+    background:transparent;
+    color: 	#FCFFFF;
+}
+.search button{
+    width:20%;
+    background: 	#FCFFFF;
+    color:black;
+    float:right;
+    border-left:0px;
+}
+.search button:hover{
+    opacity:0.8;
+}
+.search input:hover{
+    opacity:0.8;
+}
+.logo{
+    float:left;
+    padding:5px;
+    width:11%;
+
+}
