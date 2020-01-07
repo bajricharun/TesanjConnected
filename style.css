@@ -1,0 +1,122 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url("gradina.jpg"); background-repeat:repeat-y;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #2C3039;
+    border-bottom:3px solid white;
+}
+.reg 
+{
+    float:right;
+    display:block;
+    background:#2C3039;
+    color:	#FCFFFF;
+    text-align: center;
+    text-decoration: none;
+    font-size:17px;
+    padding:15px;
+    padding-right:15px;
+    padding-left:5px;
+    padding-top:40px;
+    padding-bottom:35px;
+   
+    
+}
+.log{
+    float:right;
+    display:block;
+    background:#2C3039;
+    color:	#FCFFFF;
+    text-align: center;
+    text-decoration: none;
+    font-size:17px;
+    padding:15px;
+    padding-right:15px;
+    padding-left:5px;
+    padding-top:40px;
+    padding-bottom:35px;
+
+    
+}
+.search{
+    float:right;
+    padding:25px;
+    padding-right:10px;
+    padding-top: 37px;
+    padding-bottom:30px;
+    background-color:#2C3039;
+    width:15%;
+    
+}
+.search input,button{
+    width:80%;
+    border:2px solid white;
+    border-right:0px;
+    font-size:17px;
+    background:transparent;
+    color: 	#FCFFFF;
+}
+.search button{
+    width:20%;
+    background: 	#FCFFFF;
+    color:black;
+    float:right;
+    border-left:0px;
+}
+.search button:hover{
+    opacity:0.8;
+}
+.search input:hover{
+    opacity:0.8;
+}
+.logo{
+    float:left;
+    padding:5px;
+    width:11%;
+
+}
+.tekst{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    text-align:center;
+}
+.tekst h1{
+    color:#fff;
+    font-size:80px;
+    font-weight:600;
+    margin-bottom:100px;
+}
+.tekst p{
+    color:#fff;
+    font-size:29px;
+    font-weight:lighter;
+}
+.tekst button{
+    color:#fff;
+    background:#009f8b;
+    padding:35px;
+    padding-right:10px;
+    padding-left:10px;
+    border:none;
+    font-size:14px;
+    margin-top:30px;
+}
+.tekst button:hover{
+    background-color:#32b2a2;
+}
+.logo{
+    width: 6%;
+    float:left;
+    margin-left:3%;
+}
